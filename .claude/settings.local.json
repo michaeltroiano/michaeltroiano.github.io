@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm install react-router-dom)",
-      "Bash(npm install react-router-dom --legacy-peer-deps)"
-    ]
-  }
-}
