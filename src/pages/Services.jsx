@@ -97,6 +97,7 @@ const Services = () => {
                 <li>TypeScript</li>
                 <li>Tailwind CSS</li>
                 <li>Angular</li>
+                <li>WordPress</li>
               </ul>
             </div>
             <div className="tech-category">
